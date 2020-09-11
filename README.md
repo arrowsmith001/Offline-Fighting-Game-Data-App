@@ -5,3 +5,4 @@ Uses SQL libraries to record and handle data queries. Was my first real experien
 
 Abandoned fairly late into development. Only provides rudimentary fighter matchup data. Was supposed to add friend comparison data, but instead it just shows a listview of the raw fighting records. I have since moved on to develop an online version which would provide the benefits of Cloud data pooling and add a more social dimension to challenging friends and acquaintances, as well as fulfilling all the aims of this prototype.
 
+Status: Deprecated
